@@ -1,9 +1,6 @@
 <h1 align="center">Hey je suis Nemoo</h1>
 <h3 align="center">J'aime l'informatique</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nemoos007&label=Profile%20views&color=0e75b6&style=flat" alt="nemoos007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nemoos007" alt="nemoos007" /></a> </p>
 
 - Un bot qui vous permet de poster vos succès entre 2 serveur 🔭 [Bot succès](https://github.com/Nemoos007/bot-succes)
 
